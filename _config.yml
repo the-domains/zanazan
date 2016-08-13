@@ -1,0 +1,14 @@
+layout_spectrum: 0.9972968511283398
+typography_spectrum: 0.187732552876696
+color:
+  brandStrength: 0.02611810970120132
+  lightness: 0.7750755178276449
+  saturation: 0.5227142851799726
+  rhythmicContrast: 0.585785724921152
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: zanazan
